@@ -1,0 +1,14 @@
+{
+  "name": "webp-avif-support",
+  "version": "1.0.0",
+  "description": "Checks if the browser support AVIF and WebP",
+  "keywords": [
+    "avif",
+    "webp",
+    "support",
+    "local",
+    "browser"
+  ],
+  "author": "Kevin From <kevinfrom@live.dk>",
+  "license": "MIT"
+}
