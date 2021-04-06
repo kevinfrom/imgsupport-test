@@ -2,6 +2,8 @@
   "name": "webp-avif-support",
   "version": "1.1.0",
   "description": "Checks if the browser support AVIF and WebP",
+  "main": "imgsupport.js",
+  "types": "./imgsupport.d.ts",
   "keywords": [
     "avif",
     "webp",
