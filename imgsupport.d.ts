@@ -1,1 +1,2 @@
-declare function checkImageSupport(): void
+declare const checkImageSupport: () => void;
+export default checkImageSupport;
